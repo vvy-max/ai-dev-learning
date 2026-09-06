@@ -81,3 +81,6 @@ for x in range(1, 11):
     print(repr(x).rjust(2),repr(x*x).rjust(3), end=' ')
     # 请注意上一行中 'end' 的使用
     print(repr(x*x*x).rjust(4))
+
+
+print('20260906')  # 输出: 00012
